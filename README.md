@@ -1,6 +1,6 @@
 # Hi there, I'm Askary Abbas 👋
 
-I'm a **Software Engineer, a student, and a lifelong learner** dedicated to building innovative and scalable solutions across web, blockchain, and AI domains. With robust expertise in Python, Django, Node.js, ExpressJS, Flask, and Jira, I design and deploy cutting-edge back-end systems and create engaging front-end experiences. I've also developed LLM-based AI solutions to harness the power of natural language processing. Currently, I'm pursuing my Master's in Computer Science at Clark University, where I actively explore the latest AI trends and emerging technologies.
+I'm a **Software Engineer, a student, and a lifelong learner** dedicated to building innovative and scalable solutions across web, blockchain, and AI domains. With robust expertise in Python, Django, Java, PHP, ReactJS, Node.js, ExpressJS, and Flask, I design and deploy cutting-edge back-end systems and create engaging front-end experiences. I've also developed LLM-based AI solutions to harness the power of natural language processing. Currently, I'm pursuing my Master's in Computer Science at Clark University, where I actively explore the latest AI trends and emerging technologies.
 
 ---
 
