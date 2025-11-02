@@ -66,7 +66,7 @@ I'm a **Software Engineer, a student, and a lifelong learner** dedicated to buil
   Developed as part of the Clark University Capstone (Fall 2025), this project blends NLP, embeddings, and modern UI/UX for a seamless study experience.
   
 - **Decentralized Blockchain Marketplace**  
-  Building a next-generation decentralized marketplace leveraging blockchain technology. This platform offers secure, transparent, and token-based transactions, utilizing smart contracts for trustless interactions and dynamic pricing algorithms for market efficiency.
+  Developed a next-generation decentralized marketplace leveraging blockchain technology. This platform offers secure, transparent, and token-based transactions, utilizing smart contracts for trustless interactions and dynamic pricing algorithms for market efficiency.
 
 - **LLM-based AI Solutions**  
   Developed advanced AI applications leveraging large language models to deliver intelligent insights and automation capabilities. This project showcases innovative NLP techniques applied to real-world scenarios.
