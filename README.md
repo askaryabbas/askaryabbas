@@ -51,18 +51,18 @@ I'm a **Software Engineer, a student, and a lifelong learner** dedicated to buil
 
 - **Smart AI Buddy – AI-Powered Study Assistant**\
   Smart AI Buddy is a full-stack mobile application built with React Native (Expo), and Node.js that turns lecture notes into interactive learning materials.\
-  It empowers learners to:\
-	•	AI-powered summaries.\
-	•	3D flashcards for self-study.\
-	•	Auto-generated quizzes.\
-	•	An AI Tutor chat for Q&A on uploaded notes.\
-  •	Experience smart caching for faster content loading
+  It empowers learners to:
+	- AI-powered summaries.
+	- 3D flashcards for self-study.
+	- Auto-generated quizzes.
+	- An AI Tutor chat for Q&A on uploaded notes.
+    - Experience smart caching for faster content loading.
   
   **Tech Stack:** React Native (Expo), TypeScript, TailwindCSS, Node.js, Prisma, PostgreSQL (pgvector), OpenAI API\
-  **Achievements & Impact:**\
-  	•	Reduced API response time by 40% via local caching.\
-  	•	Improved user study efficiency by 65% with personalized tools.\
-  	•	Achieved 95% session persistence with async storage caching\
+  **Achievements & Impact:**
+  	- Reduced API response time by 40% via local caching.
+  	- Improved user study efficiency by 65% with personalized tools.
+  	- Achieved 95% session persistence with async storage caching.\
   Developed as part of the Clark University Capstone (Fall 2025), this project blends NLP, embeddings, and modern UI/UX for a seamless study experience.
   
 - **Decentralized Blockchain Marketplace**  
