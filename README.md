@@ -1,6 +1,6 @@
 # Hi there, I'm Askary Abbas 👋
 
-I'm a **Software Engineer, a student, and a lifelong learner** dedicated to building innovative and scalable solutions across web, blockchain, and AI domains. With robust expertise in Python, Django, Java, PHP, ReactJS, Node.js, ExpressJS, and Flask, I design and deploy cutting-edge back-end systems and create engaging front-end experiences. I've also developed LLM-based AI solutions to harness the power of natural language processing. Currently, I'm pursuing my Master's in Computer Science at Clark University, where I actively explore the latest AI trends and emerging technologies.
+I'm a **Software Engineer, a student, and a lifelong learner** dedicated to building innovative and scalable solutions across web, blockchain, and AI domains. With robust expertise in Python, Django, Java, PHP, ReactJS, Node.js, ExpressJS, ReactNative, and Flask, I design and deploy cutting-edge back-end systems and create engaging front-end experiences. I've also developed LLM-based AI solutions to harness the power of natural language processing. Currently, I'm pursuing my Master's in Computer Science at Clark University, where I actively explore the latest AI trends and emerging technologies.
 
 ---
 
@@ -13,6 +13,11 @@ I'm a **Software Engineer, a student, and a lifelong learner** dedicated to buil
 ![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white)
 ![Gulp](https://img.shields.io/badge/Gulp-CF4647?style=flat-square&logo=gulp&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
@@ -44,8 +49,23 @@ I'm a **Software Engineer, a student, and a lifelong learner** dedicated to buil
 
 ## 🚀 Projects
 
+- **Smart AI Buddy – AI-Powered Study Assistant**\
+  Smart AI Buddy is a full-stack mobile application built with React Native (Expo), and Node.js that turns lecture notes into interactive learning materials.\
+  It empowers learners to:\
+	•	AI-powered summaries.\
+	•	3D flashcards for self-study.\
+	•	Auto-generated quizzes.\
+	•	An AI Tutor chat for Q&A on uploaded notes.\
+  •	Experience smart caching for faster content loading\
+  
+  **Tech Stack:** React Native (Expo), TypeScript, TailwindCSS, Node.js, Express, Prisma, PostgreSQL (pgvector), OpenAI API\
+  **Achievements & Impact:**\
+  	•	Reduced API response time by 40% via local caching.\
+  	•	Improved user study efficiency by 65% with personalized tools.\
+  	•	Achieved 95% session persistence with async storage caching\
+  Developed as part of the Clark University Capstone (Fall 2025), this project blends NLP, embeddings, and modern UI/UX for a seamless study experience.
+  
 - **Decentralized Blockchain Marketplace**  
-  _Current Project_  
   Building a next-generation decentralized marketplace leveraging blockchain technology. This platform offers secure, transparent, and token-based transactions, utilizing smart contracts for trustless interactions and dynamic pricing algorithms for market efficiency.
 
 - **LLM-based AI Solutions**  
