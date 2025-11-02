@@ -56,9 +56,9 @@ I'm a **Software Engineer, a student, and a lifelong learner** dedicated to buil
 	•	3D flashcards for self-study.\
 	•	Auto-generated quizzes.\
 	•	An AI Tutor chat for Q&A on uploaded notes.\
-  •	Experience smart caching for faster content loading\
+  •	Experience smart caching for faster content loading
   
-  **Tech Stack:** React Native (Expo), TypeScript, TailwindCSS, Node.js, Express, Prisma, PostgreSQL (pgvector), OpenAI API\
+  **Tech Stack:** React Native (Expo), TypeScript, TailwindCSS, Node.js, Prisma, PostgreSQL (pgvector), OpenAI API\
   **Achievements & Impact:**\
   	•	Reduced API response time by 40% via local caching.\
   	•	Improved user study efficiency by 65% with personalized tools.\
